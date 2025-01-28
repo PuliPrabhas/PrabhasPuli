@@ -1,0 +1,25 @@
+#button{
+    color: black;
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: serif;
+}
+#button2{
+    color: black;
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: serif;
+    position: absolute;
+    padding-left: 10px;
+}
+h1{
+    color: rgba(138, 13, 121, 0.534);
+}
